@@ -1,5 +1,5 @@
 # Library
-v1.0 List of Books I've over the years
+v1.0 List of Books I've read over the years
 
 Possible Improvements:
 - Rating each book read
