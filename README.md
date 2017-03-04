@@ -7,7 +7,7 @@
 - Categorizing books by theme
 - Organizing books in Alphabetical Order by Author
 
-# Booka
+# Books
 
 - [Creativity, Inc](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012 "Creativity, Inc by Ed Catmull") by Ed Catmull
 
